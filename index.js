@@ -1,8 +1,12 @@
-#! /usr/bin/env node
-console.log(`
-    Md Sahin Siraj
+#!/usr/bin/env node
+import chalk from "chalk"
 
-    📖 Github: https://github.com/sahin-dev
-    🔗 Linkedin: https://www.linkedin.com/in/mdsahinsiraj/
-    
-    `)
+
+console.log(`
+Md Sahin Siraj
+
+${chalk.hex('#6cc644').bold.inverse(" GitHub ")} https://github.com/sahin-dev
+
+${chalk.hex('#0a66c2').bold.inverse(' LinkedIn ')} https://www.linkedin.com/in/mdsahinsiraj/
+
+`)
