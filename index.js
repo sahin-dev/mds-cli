@@ -3,7 +3,7 @@ import chalk from "chalk"
 
 
 console.log(`
-Md Sahin Siraj
+Md Sahin Sirajs
 
 ${chalk.hex('#6cc644').bold.inverse(" GitHub ")} https://github.com/sahin-dev
 

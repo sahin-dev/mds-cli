@@ -7,6 +7,6 @@ My personal CLI tool which tells you about me.
 To use this cli run these following commands:
 
 ```sh
-npx mds
+npx mds-cli
 ```
 
