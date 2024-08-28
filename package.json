@@ -1,8 +1,8 @@
 {
     "name": "mds-cli",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Get to know me in your CLI",
-    "type":"module",
+    "type": "module",
     "bin": {
         "mds": "index.js"
     },
