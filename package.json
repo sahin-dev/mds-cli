@@ -1,0 +1,17 @@
+{
+    "name":"mds-cli",
+    "version":"1.0.0",
+    "description":"Get to know me in your CLI",
+    "bin":{
+        "mds":"index.js"
+    },
+    "keywords":["Sahin","Siarj","Sahin Siraj"],
+    "repository":"sahin-dev/mds-cli",
+    "license":"MIT",
+    "main":"index.js",
+    "author":{
+        "name":"Md Sahin Siraj",
+        "email":"mdsahinsiraj@gmail.com"
+    }
+    
+}
